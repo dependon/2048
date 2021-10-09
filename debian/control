@@ -1,0 +1,12 @@
+Source: game2048
+Section: utils
+Priority: optional
+Maintainer: liuminghang  <liuminghang0821@gmail.com>
+Build-Depends: debhelper (>= 9),pkg-config, dpkg-dev, qt5-qmake, qtbase5-dev,qttools5-dev-tools
+Standards-Version: 0.0-3
+Homepage: game2048
+
+Package: game2048
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: game2048.

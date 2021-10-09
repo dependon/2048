@@ -1,0 +1,17 @@
+[Desktop Entry]
+Categories=Application;
+Comment=Game2048
+Comment[zh_CN]=2048
+Encoding=UTF-8
+Exec=Game2048 %F
+GenericName=Game2048
+GenericName[zh_CN]=2048
+Icon=Game2048
+Name=Game2048
+Name[zh_CN]=2048
+StartupNotify=false
+Terminal=false
+Type=Application
+Version=1.0.0.0
+X-Deepin-ManualID=Game2048
+X-Deepin-Vendor=user-custom
